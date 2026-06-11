@@ -4,3 +4,10 @@ pyenv --version
 $env:PYTHON_BUILD_MIRROR_URL="https://mirrors.huaweicloud.com/python/"
 pyenv install 3.12.10
 pyenv global 3.12.10
+
+
+
+
+
+参考
+https://docs.python.org/zh-cn/3.14/library/index.html
