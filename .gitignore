@@ -1,0 +1,24 @@
+# Obsidian
+.obsidian/
+.smtcmp_json_db/
+.smtcmp_vector_db.tar.gz
+
+# Obsidian plugins
+.trash/
+
+# 大文件目录（待整理后单独管理）
+图书/
+
+# 系统文件
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# 临时文件
+*.tmp
+*.bak
+~$*

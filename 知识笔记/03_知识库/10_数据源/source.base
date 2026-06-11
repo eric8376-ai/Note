@@ -1,0 +1,6 @@
+views:
+  - type: table
+    name: 表格
+    filters:
+      and:
+        - file.path.startsWith("03_知识库/10_数据源")

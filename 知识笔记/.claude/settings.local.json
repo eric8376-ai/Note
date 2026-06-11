@@ -1,0 +1,30 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir:*)",
+      "Bash(cd:*)",
+      "Skill(update-config)",
+      "Bash(powershell -Command \"if \\(Get-Command bun -ErrorAction SilentlyContinue\\) { \\(Get-Command bun\\).Source } elseif \\(Get-Command node -ErrorAction SilentlyContinue\\) { \\(Get-Command node\\).Source } else { Write-Output 'NOT_FOUND' }\")",
+      "Bash(powershell -Command \"\\(Get-ChildItem \\\\\"$env:USERPROFILE\\\\\\\\.claude\\\\\\\\plugins\\\\\\\\cache\\\\\\\\claude-hud\\\\\\\\claude-hud\\\\\" | Sort-Object LastWriteTime -Descending | Select-Object -First 1\\).FullName\")",
+      "Bash(ls -td ~/.claude/plugins/cache/claude-hud/claude-hud/*/)",
+      "Bash(\"C:/Users/liz/.bun/bin/bun.exe\" ~/.claude/plugins/cache/claude-hud/claude-hud/0.0.7/src/index.ts)",
+      "Bash(cat ~/.claude/file-history/*/settings.json)",
+      "Bash(mv 00_系统配置/MOC/* 50_视图/)",
+      "Bash(rmdir 00_系统配置/MOC)",
+      "Bash(mv 50_收件箱/* 缓冲区/)",
+      "Bash(rmdir 50_收件箱)",
+      "Bash(ls -la */)",
+      "Bash(mv 00_配置 01_配置)",
+      "Bash(mv 缓冲区 02_缓冲区)",
+      "Bash(mv 知识库 03_知识库)",
+      "Bash(mv 50_视图 04_视图)",
+      "Bash(ls -d */)",
+      "Bash(mv deepseek文集/* session/deepseek/)",
+      "Bash(mv 豆包文集/* session/doubao/)",
+      "Bash(mv 抖音文集/* media/douyin/)",
+      "Bash(mv session:*)",
+      "Bash(mv media:*)",
+      "Bash(find D:/Data/Note/知识笔记/02_缓冲区 -type f -name *.md)"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+views:
+  - type: cards
+    name: 表格
+    filters:
+      and:
+        - file.inFolder("03_知识库/30_主题卡片")
+        - file.ext != "base"
+    groupBy:
+      property: file.folder
+      direction: ASC
+    order:
+      - file.name
+    cardSize: 120
+    imageAspectRatio: 0.4
+    imageFit: contain
+    image: note.status
+    markers: number
