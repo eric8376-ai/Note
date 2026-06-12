@@ -6,3 +6,4 @@ https://code.visualstudio.com/docs/languages/markdown
 
 Ctrl + Shift + F  搜素内容  
 Ctrl + P   快速打开文件
+Ctrl + G   跳转到某一行
