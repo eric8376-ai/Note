@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+<rect width="1280" height="720" fill="#FFFFFF" />
+<rect x="0" y="0" width="1280" height="90" fill="#1B3A5C" />
+<text x="60" y="58" font-family="Microsoft YaHei" font-size="28" fill="#FFFFFF" font-weight="bold">流畅性启发（核心原理）</text>
+<text x="1220" y="58" font-family="Microsoft YaHei" font-size="14" fill="#666666" text-anchor="end">04 / 06</text>
+<circle cx="640" cy="290" r="120" fill="#4A90D9" />
+<circle cx="640" cy="290" r="100" fill="#1B3A5C" />
+<text x="640" y="265" font-family="Microsoft YaHei" font-size="14" fill="#80B0E0" text-anchor="middle">CORE PRINCIPLE</text>
+<text x="640" y="300" font-family="Microsoft YaHei" font-size="22" fill="#FFFFFF" font-weight="bold" text-anchor="middle">流畅性启发</text>
+<text x="640" y="328" font-family="Microsoft YaHei" font-size="14" fill="#80B0E0" text-anchor="middle">认知压榨的本质</text>
+<path fill="#F5F7FA" d="M444,130 H836 A4,4 0 0 1 840,134 V161 A4,4 0 0 1 836,165 H444 A4,4 0 0 1 440,161 V134 A4,4 0 0 1 444,130 Z" />
+<text x="640" y="154" font-family="Microsoft YaHei" font-size="15" fill="#333333" text-anchor="middle">大脑依赖信息处理的主观体验</text>
+<line x1="530" y1="280" x2="280" y2="280" stroke="#4CAF50" stroke-width="2" stroke-dasharray="6,3" />
+<polygon points="285,275 270,280 285,285" fill="#4CAF50" />
+<path fill="#F0FBF0" d="M68,240 H262 A8,8 0 0 1 270,248 V322 A8,8 0 0 1 262,330 H68 A8,8 0 0 1 60,322 V248 A8,8 0 0 1 68,240 Z" />
+<path fill="#4CAF50" d="M62.50,240 H62.50 A2.50,2.50 0 0 1 65,242.50 V327.50 A2.50,2.50 0 0 1 62.50,330 H62.50 A2.50,2.50 0 0 1 60,327.50 V242.50 A2.50,2.50 0 0 1 62.50,240 Z" />
+<text x="85" y="270" font-family="Microsoft YaHei" font-size="16" fill="#2E7D32" font-weight="bold">感觉轻松</text>
+<text x="85" y="295" font-family="Microsoft YaHei" font-size="14" fill="#333333">= 感觉正确</text>
+<text x="85" y="317" font-family="Microsoft YaHei" font-size="13" fill="#666666">处理顺畅 → 判断可信</text>
+<line x1="750" y1="280" x2="1000" y2="280" stroke="#E53935" stroke-width="2" stroke-dasharray="6,3" />
+<polygon points="995,275 1010,280 995,285" fill="#E53935" />
+<path fill="#FFF5F5" d="M1018,240 H1212 A8,8 0 0 1 1220,248 V322 A8,8 0 0 1 1212,330 H1018 A8,8 0 0 1 1010,322 V248 A8,8 0 0 1 1018,240 Z" />
+<path fill="#E53935" d="M1217.50,240 H1217.50 A2.50,2.50 0 0 1 1220,242.50 V327.50 A2.50,2.50 0 0 1 1217.50,330 H1217.50 A2.50,2.50 0 0 1 1215,327.50 V242.50 A2.50,2.50 0 0 1 1217.50,240 Z" />
+<text x="1190" y="270" font-family="Microsoft YaHei" font-size="16" fill="#C62828" font-weight="bold" text-anchor="end">感觉困难</text>
+<text x="1190" y="295" font-family="Microsoft YaHei" font-size="14" fill="#333333" text-anchor="end">= 感觉可疑</text>
+<text x="1190" y="317" font-family="Microsoft YaHei" font-size="13" fill="#666666" text-anchor="end">处理吃力 → 不信任</text>
+<path fill="#FFF8F0" d="M68,430 H1212 A8,8 0 0 1 1220,438 V522 A8,8 0 0 1 1212,530 H68 A8,8 0 0 1 60,522 V438 A8,8 0 0 1 68,430 Z" />
+<text x="100" y="465" font-family="Microsoft YaHei" font-size="16" fill="#E87722" font-weight="bold">启示</text>
+<text x="640" y="490" font-family="Microsoft YaHei" font-size="22" fill="#1B3A5C" font-weight="bold" text-anchor="middle">表达流畅比内容正确更重要</text>
+<text x="640" y="516" font-family="Microsoft YaHei" font-size="15" fill="#666666" text-anchor="middle">用短句、口语化、重复强调，降低听众的认知负担</text>
+<path fill="#F5F7FA" d="M68,570 H422 A8,8 0 0 1 430,578 V672 A8,8 0 0 1 422,680 H68 A8,8 0 0 1 60,672 V578 A8,8 0 0 1 68,570 Z" />
+<text x="80" y="600" font-family="Microsoft YaHei" font-size="15" fill="#4A90D9" font-weight="bold">策略 1</text>
+<text x="80" y="625" font-family="Microsoft YaHei" font-size="14" fill="#333333">提前准备安全观点</text>
+<text x="80" y="650" font-family="Microsoft YaHei" font-size="13" fill="#666666">调取 + 筛选 + 组织</text>
+<path fill="#F5F7FA" d="M463,570 H817 A8,8 0 0 1 825,578 V672 A8,8 0 0 1 817,680 H463 A8,8 0 0 1 455,672 V578 A8,8 0 0 1 463,570 Z" />
+<text x="475" y="600" font-family="Microsoft YaHei" font-size="15" fill="#4A90D9" font-weight="bold">策略 2</text>
+<text x="475" y="625" font-family="Microsoft YaHei" font-size="14" fill="#333333">降低认知负担</text>
+<text x="475" y="650" font-family="Microsoft YaHei" font-size="13" fill="#666666">短句 + 口语化 + 重复</text>
+<path fill="#F5F7FA" d="M858,570 H1212 A8,8 0 0 1 1220,578 V672 A8,8 0 0 1 1212,680 H858 A8,8 0 0 1 850,672 V578 A8,8 0 0 1 858,570 Z" />
+<text x="870" y="600" font-family="Microsoft YaHei" font-size="15" fill="#4A90D9" font-weight="bold">策略 3</text>
+<text x="870" y="625" font-family="Microsoft YaHei" font-size="14" fill="#333333">结构化表达</text>
+<text x="870" y="650" font-family="Microsoft YaHei" font-size="13" fill="#666666">钩子 + 结论 + 观点 + 行动</text>
+</svg>

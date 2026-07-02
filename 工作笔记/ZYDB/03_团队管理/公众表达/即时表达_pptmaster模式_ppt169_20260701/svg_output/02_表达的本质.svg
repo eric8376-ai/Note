@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+<rect width="1280" height="720" fill="#FFFFFF"/>
+<rect x="0" y="0" width="1280" height="90" fill="#0F2A43"/>
+<text x="60" y="58" font-family="Microsoft YaHei" font-size="28" fill="#FFFFFF" font-weight="bold">表达的本质：内容与方式</text>
+<text x="1220" y="58" font-family="Microsoft YaHei" font-size="14" fill="#64748B" text-anchor="end">01 / 06</text>
+<rect x="60" y="120" width="560" height="520" fill="#F8FAFC" rx="12"/>
+<rect x="60" y="120" width="560" height="6" fill="#2563EB" rx="3"/>
+<text x="100" y="170" font-family="Microsoft YaHei" font-size="14" fill="#2563EB" font-weight="bold">WHAT</text>
+<text x="100" y="205" font-family="Microsoft YaHei" font-size="26" fill="#0F2A43" font-weight="bold">表达内容</text>
+<line x1="100" y1="230" x2="580" y2="230" stroke="#E2E8F0"/>
+<rect x="100" y="260" width="480" height="3" fill="#2563EB" opacity="0.2"/>
+<text x="100" y="290" font-family="Microsoft YaHei" font-size="18" fill="#2563EB" font-weight="bold">前端</text>
+<text x="100" y="315" font-family="Microsoft YaHei" font-size="15" fill="#475569">流畅、自信、有节奏的口头语言</text>
+<rect x="100" y="350" width="480" height="3" fill="#2563EB" opacity="0.2"/>
+<text x="100" y="380" font-family="Microsoft YaHei" font-size="18" fill="#2563EB" font-weight="bold">后端</text>
+<text x="100" y="405" font-family="Microsoft YaHei" font-size="15" fill="#475569">PPT、数据、逻辑链里的严谨底稿</text>
+<rect x="100" y="440" width="480" height="3" fill="#2563EB" opacity="0.2"/>
+<text x="100" y="470" font-family="Microsoft YaHei" font-size="18" fill="#2563EB" font-weight="bold">护城河</text>
+<text x="100" y="495" font-family="Microsoft YaHei" font-size="15" fill="#475569">预判听众挑战点和对应答案</text>
+<rect x="100" y="540" width="480" height="70" fill="#2563EB" opacity="0.08" rx="6"/>
+<text x="340" y="570" font-family="Microsoft YaHei" font-size="15" fill="#2563EB" font-weight="bold" text-anchor="middle">半书面 = 口头 + 书面底稿 + 审查</text>
+<text x="340" y="593" font-family="Microsoft YaHei" font-size="13" fill="#64748B" text-anchor="middle">经得起听众审查的公众发言</text>
+<rect x="660" y="120" width="560" height="520" fill="#FFFBEB" rx="12"/>
+<rect x="660" y="120" width="560" height="6" fill="#E8A838" rx="3"/>
+<text x="700" y="170" font-family="Microsoft YaHei" font-size="14" fill="#E8A838" font-weight="bold">HOW</text>
+<text x="700" y="205" font-family="Microsoft YaHei" font-size="26" fill="#0F2A43" font-weight="bold">表达方式</text>
+<line x1="700" y1="230" x2="1180" y2="230" stroke="#FDE68A"/>
+<rect x="700" y="260" width="480" height="60" fill="#FFFFFF" rx="6"/>
+<text x="940" y="298" font-family="Microsoft YaHei" font-size="18" fill="#0F2A43" font-weight="bold" text-anchor="middle">本质：一种认知压榨</text>
+<text x="700" y="370" font-family="Microsoft YaHei" font-size="16" fill="#E8A838" font-weight="bold">① 流畅性启发</text>
+<text x="720" y="398" font-family="Microsoft YaHei" font-size="15" fill="#475569">感觉轻松 = 感觉正确</text>
+<text x="720" y="423" font-family="Microsoft YaHei" font-size="13" fill="#94A3B8">大脑依赖处理体验而非内容</text>
+<text x="700" y="475" font-family="Microsoft YaHei" font-size="16" fill="#E8A838" font-weight="bold">② 场景表达模式</text>
+<text x="720" y="503" font-family="Microsoft YaHei" font-size="15" fill="#475569">钩子 → 结论 → 观点 → 行动</text>
+<text x="720" y="528" font-family="Microsoft YaHei" font-size="13" fill="#94A3B8">结构化降低认知负担</text>
+<rect x="700" y="555" width="480" height="60" fill="#E8A838" opacity="0.1" rx="6"/>
+<text x="940" y="592" font-family="Microsoft YaHei" font-size="15" fill="#B45309" font-weight="bold" text-anchor="middle">即时表达更重要的是表达方式</text>
+</svg>

@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+<rect width="1280" height="720" fill="#FFFFFF"/>
+<rect x="0" y="0" width="1280" height="90" fill="#0F2A43"/>
+<text x="60" y="58" font-family="Microsoft YaHei" font-size="28" fill="#FFFFFF" font-weight="bold">表达内容四大原则</text>
+<text x="1220" y="58" font-family="Microsoft YaHei" font-size="14" fill="#64748B" text-anchor="end">02 / 06</text>
+<rect x="60" y="115" width="1160" height="130" fill="#F8FAFC" rx="8"/>
+<text x="100" y="195" font-family="Microsoft YaHei" font-size="56" fill="#2563EB" font-weight="bold" opacity="0.15">00</text>
+<text x="210" y="160" font-family="Microsoft YaHei" font-size="22" fill="#0F2A43" font-weight="bold">目的决定形式</text>
+<rect x="210" y="172" width="40" height="2" fill="#E8A838"/>
+<text x="210" y="200" font-family="Microsoft YaHei" font-size="16" fill="#475569">没有野心的表达，技巧沦为套路，大脑拒绝全力运转</text>
+<text x="210" y="228" font-family="Microsoft YaHei" font-size="14" fill="#94A3B8">→ 潜意识知道这次表达没有野心，所以拒绝全力运转</text>
+<rect x="60" y="260" width="1160" height="130" fill="#F8FAFC" rx="8"/>
+<text x="100" y="340" font-family="Microsoft YaHei" font-size="56" fill="#2563EB" font-weight="bold" opacity="0.15">01</text>
+<text x="210" y="305" font-family="Microsoft YaHei" font-size="22" fill="#0F2A43" font-weight="bold">时间有限性</text>
+<rect x="210" y="317" width="40" height="2" fill="#E8A838"/>
+<text x="210" y="345" font-family="Microsoft YaHei" font-size="16" fill="#475569">注意力窗口有限，耐心有限，说太多引起反感</text>
+<text x="210" y="373" font-family="Microsoft YaHei" font-size="14" fill="#94A3B8">→ 尊重听众的时间，抓重点（只抓三点）</text>
+<rect x="60" y="405" width="1160" height="130" fill="#F8FAFC" rx="8"/>
+<text x="100" y="485" font-family="Microsoft YaHei" font-size="56" fill="#2563EB" font-weight="bold" opacity="0.15">02</text>
+<text x="210" y="450" font-family="Microsoft YaHei" font-size="22" fill="#0F2A43" font-weight="bold">时间线性</text>
+<rect x="210" y="462" width="40" height="2" fill="#E8A838"/>
+<text x="210" y="490" font-family="Microsoft YaHei" font-size="16" fill="#475569">说完就没了，无法倒带。用短句、重复、口语词</text>
+<text x="210" y="518" font-family="Microsoft YaHei" font-size="14" fill="#94A3B8">→ 主动标定重点（复述或 PPT 标题），确保信息一次过</text>
+<rect x="60" y="550" width="1160" height="130" fill="#0F2A43" rx="8"/>
+<text x="100" y="630" font-family="Microsoft YaHei" font-size="56" fill="#E8A838" font-weight="bold" opacity="0.2">03</text>
+<text x="210" y="595" font-family="Microsoft YaHei" font-size="22" fill="#FFFFFF" font-weight="bold">认知带宽</text>
+<rect x="210" y="607" width="40" height="2" fill="#E8A838"/>
+<text x="210" y="635" font-family="Microsoft YaHei" font-size="16" fill="#CBD5E1">需要低压信息，废话是缓冲带，听众在理解+判断（双线任务）</text>
+<text x="210" y="663" font-family="Microsoft YaHei" font-size="14" fill="#64748B">→ 允许语气词（嗯、啊），它们是大脑的休息区</text>
+</svg>

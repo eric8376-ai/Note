@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+<rect width="1280" height="720" fill="#FFFFFF" />
+<rect x="0" y="0" width="1280" height="90" fill="#1B3A5C" />
+<text x="60" y="58" font-family="Microsoft YaHei" font-size="28" fill="#FFFFFF" font-weight="bold">表达的本质：内容与方式</text>
+<text x="1220" y="58" font-family="Microsoft YaHei" font-size="14" fill="#666666" text-anchor="end">01 / 06</text>
+<path fill="#F5F7FA" d="M72,120 H608 A12,12 0 0 1 620,132 V628 A12,12 0 0 1 608,640 H72 A12,12 0 0 1 60,628 V132 A12,12 0 0 1 72,120 Z" />
+<path fill="#4A90D9" d="M63,120 H617 A3,3 0 0 1 620,123 V123 A3,3 0 0 1 617,126 H63 A3,3 0 0 1 60,123 V123 A3,3 0 0 1 63,120 Z" />
+<text x="100" y="170" font-family="Microsoft YaHei" font-size="14" fill="#4A90D9" font-weight="bold">WHAT</text>
+<text x="100" y="205" font-family="Microsoft YaHei" font-size="20" fill="#1B3A5C" font-weight="bold">表达内容</text>
+<line x1="100" y1="230" x2="580" y2="230" stroke="#E0E0E0" />
+<rect x="100" y="260" width="480" height="3" fill="#4A90D9" opacity="0.2" />
+<text x="100" y="290" font-family="Microsoft YaHei" font-size="18" fill="#4A90D9" font-weight="bold">前端</text>
+<text x="100" y="315" font-family="Microsoft YaHei" font-size="15" fill="#333333">流畅、自信、有节奏的口头语言</text>
+<rect x="100" y="350" width="480" height="3" fill="#4A90D9" opacity="0.2" />
+<text x="100" y="380" font-family="Microsoft YaHei" font-size="18" fill="#4A90D9" font-weight="bold">后端</text>
+<text x="100" y="405" font-family="Microsoft YaHei" font-size="15" fill="#333333">PPT、数据、逻辑链里的严谨底稿</text>
+<rect x="100" y="440" width="480" height="3" fill="#4A90D9" opacity="0.2" />
+<text x="100" y="470" font-family="Microsoft YaHei" font-size="18" fill="#4A90D9" font-weight="bold">护城河</text>
+<text x="100" y="495" font-family="Microsoft YaHei" font-size="15" fill="#333333">预判听众挑战点和对应答案</text>
+<path fill="#4A90D9" opacity="0.08" d="M106,540 H574 A6,6 0 0 1 580,546 V604 A6,6 0 0 1 574,610 H106 A6,6 0 0 1 100,604 V546 A6,6 0 0 1 106,540 Z" />
+<text x="340" y="570" font-family="Microsoft YaHei" font-size="15" fill="#4A90D9" font-weight="bold" text-anchor="middle">半书面 = 口头 + 书面底稿 + 审查</text>
+<text x="340" y="593" font-family="Microsoft YaHei" font-size="13" fill="#666666" text-anchor="middle">经得起听众审查的公众发言</text>
+<path fill="#FFF8F0" d="M672,120 H1208 A12,12 0 0 1 1220,132 V628 A12,12 0 0 1 1208,640 H672 A12,12 0 0 1 660,628 V132 A12,12 0 0 1 672,120 Z" />
+<path fill="#E87722" d="M663,120 H1217 A3,3 0 0 1 1220,123 V123 A3,3 0 0 1 1217,126 H663 A3,3 0 0 1 660,123 V123 A3,3 0 0 1 663,120 Z" />
+<text x="700" y="170" font-family="Microsoft YaHei" font-size="14" fill="#E87722" font-weight="bold">HOW</text>
+<text x="700" y="205" font-family="Microsoft YaHei" font-size="20" fill="#1B3A5C" font-weight="bold">表达方式</text>
+<line x1="700" y1="230" x2="1180" y2="230" stroke="#F0E0D0" />
+<path fill="#FFFFFF" d="M706,260 H1174 A6,6 0 0 1 1180,266 V314 A6,6 0 0 1 1174,320 H706 A6,6 0 0 1 700,314 V266 A6,6 0 0 1 706,260 Z" />
+<text x="940" y="298" font-family="Microsoft YaHei" font-size="18" fill="#1B3A5C" font-weight="bold" text-anchor="middle">本质：一种认知压榨</text>
+<text x="700" y="370" font-family="Microsoft YaHei" font-size="16" fill="#E87722" font-weight="bold">① 流畅性启发</text>
+<text x="720" y="398" font-family="Microsoft YaHei" font-size="15" fill="#333333">感觉轻松 = 感觉正确</text>
+<text x="720" y="423" font-family="Microsoft YaHei" font-size="13" fill="#666666">大脑依赖处理体验而非内容</text>
+<text x="700" y="475" font-family="Microsoft YaHei" font-size="16" fill="#E87722" font-weight="bold">② 场景表达模式</text>
+<text x="720" y="503" font-family="Microsoft YaHei" font-size="15" fill="#333333">钩子 → 结论 → 观点 → 行动</text>
+<text x="720" y="528" font-family="Microsoft YaHei" font-size="13" fill="#666666">结构化降低认知负担</text>
+<path fill="#E87722" opacity="0.1" d="M706,555 H1174 A6,6 0 0 1 1180,561 V609 A6,6 0 0 1 1174,615 H706 A6,6 0 0 1 700,609 V561 A6,6 0 0 1 706,555 Z" />
+<text x="940" y="592" font-family="Microsoft YaHei" font-size="15" fill="#E87722" font-weight="bold" text-anchor="middle">即时表达更重要的是表达方式</text>
+</svg>

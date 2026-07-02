@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+<rect width="1280" height="720" fill="#F8FAFC"/>
+<rect x="0" y="0" width="1280" height="6" fill="#2563EB"/>
+<text x="640" y="65" font-family="Microsoft YaHei" font-size="14" fill="#2563EB" font-weight="bold" text-anchor="middle">SUMMARY</text>
+<text x="640" y="105" font-family="Microsoft YaHei" font-size="34" fill="#0F2A43" font-weight="bold" text-anchor="middle">核心要点回顾</text>
+<rect x="600" y="120" width="80" height="3" fill="#E8A838" rx="1.5"/>
+<rect x="60" y="155" width="570" height="85" fill="#FFFFFF" rx="8"/>
+<rect x="60" y="155" width="6" height="85" fill="#2563EB" rx="3"/>
+<text x="90" y="190" font-family="Microsoft YaHei" font-size="28" fill="#2563EB" font-weight="bold" opacity="0.15">01</text>
+<text x="155" y="190" font-family="Microsoft YaHei" font-size="18" fill="#0F2A43" font-weight="bold">目的决定形式</text>
+<text x="155" y="218" font-family="Microsoft YaHei" font-size="15" fill="#64748B">技巧需要灵魂支撑，否则就是套路</text>
+<rect x="650" y="155" width="570" height="85" fill="#FFFFFF" rx="8"/>
+<rect x="650" y="155" width="6" height="85" fill="#0EA5E9" rx="3"/>
+<text x="680" y="190" font-family="Microsoft YaHei" font-size="28" fill="#0EA5E9" font-weight="bold" opacity="0.15">02</text>
+<text x="745" y="190" font-family="Microsoft YaHei" font-size="18" fill="#0F2A43" font-weight="bold">尊重注意力</text>
+<text x="745" y="218" font-family="Microsoft YaHei" font-size="15" fill="#64748B">三点原则、简化语言、主动标定重点</text>
+<rect x="60" y="255" width="570" height="85" fill="#FFFFFF" rx="8"/>
+<rect x="60" y="255" width="6" height="85" fill="#E8A838" rx="3"/>
+<text x="90" y="290" font-family="Microsoft YaHei" font-size="28" fill="#E8A838" font-weight="bold" opacity="0.15">03</text>
+<text x="155" y="290" font-family="Microsoft YaHei" font-size="18" fill="#0F2A43" font-weight="bold">信任与权威</text>
+<text x="155" y="318" font-family="Microsoft YaHei" font-size="15" fill="#64748B">信任靠自信流畅，权威靠数据逻辑</text>
+<rect x="650" y="255" width="570" height="85" fill="#FFFFFF" rx="8"/>
+<rect x="650" y="255" width="6" height="85" fill="#22C55E" rx="3"/>
+<text x="680" y="290" font-family="Microsoft YaHei" font-size="28" fill="#22C55E" font-weight="bold" opacity="0.15">04</text>
+<text x="745" y="290" font-family="Microsoft YaHei" font-size="18" fill="#0F2A43" font-weight="bold">流畅性启发</text>
+<text x="745" y="318" font-family="Microsoft YaHei" font-size="15" fill="#64748B">感觉轻松 = 感觉正确，流畅比正确更重要</text>
+<rect x="60" y="355" width="1160" height="85" fill="#FFFFFF" rx="8"/>
+<rect x="60" y="355" width="6" height="85" fill="#EA580C" rx="3"/>
+<text x="90" y="390" font-family="Microsoft YaHei" font-size="28" fill="#EA580C" font-weight="bold" opacity="0.15">05</text>
+<text x="155" y="390" font-family="Microsoft YaHei" font-size="18" fill="#0F2A43" font-weight="bold">场景公式</text>
+<text x="310" y="390" font-family="Microsoft YaHei" font-size="18" fill="#475569">钩子 → 结论 → 观点 → 行动</text>
+<text x="155" y="418" font-family="Microsoft YaHei" font-size="15" fill="#64748B">四步结构化表达，降低听众认知负担</text>
+<rect x="60" y="490" width="1160" height="130" fill="#0F2A43" rx="12"/>
+<text x="640" y="545" font-family="Microsoft YaHei" font-size="30" fill="#E8A838" font-weight="bold" text-anchor="middle">说对话，比说好话更重要</text>
+<text x="640" y="585" font-family="Microsoft YaHei" font-size="16" fill="#94A3B8" text-anchor="middle">即时表达的终极奥义</text>
+<text x="640" y="680" font-family="Microsoft YaHei" font-size="14" fill="#64748B" text-anchor="middle">感谢聆听 · 表达力训练系列 · 2026</text>
+</svg>
